@@ -1,6 +1,6 @@
 let playlist = [
 	{src:'https://www.bensound.com//bensound-music/bensound-letitgo.mp3', title:"Letitgo", artist:"stereochipz"}, image:`image1.jfif`},
-	{src:'https://www.bensound.com//bensound-music/bensound-thejazzpiano.mp3', title:"JazzPiano", artist:"Benjamin Tissot"}, image:`img/image2.jpg`},
+	{src:'https://www.bensound.com//bensound-music/bensound-thejazzpiano.mp3', title:"JazzPiano", artist:"Benjamin Tissot"}, image:`image2.jpeg`},
   {src:'https://www.bensound.com//bensound-music/bensound-whenyousmile.mp3', title:"When You Smile", artist:"DpMusic"}, image:`img/image3.jpg`},
   {src:'https://www.bensound.com//bensound-music/bensound-vista.mp3', title:"Vista", artist:"stereochipz"}, image:`img/image4.jpg`},
   {src:'https://www.bensound.com//bensound-music/bensound-thisweremember.mp3', title:"This We Remember", artist:"Dan Phillipson"}, image:`img/image5.jpg`},
