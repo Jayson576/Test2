@@ -11,6 +11,7 @@ let playlist = [
   {src:'https://www.bensound.com//bensound-music/bensound-sunday.mp3', title:"Sunday", artist:"Anton Vlasov"}, image:`img/image10.jpg`},
   
 ]
+
 let whichSongAmIOn = 0
 let isPlaying = false
 let audio = null
